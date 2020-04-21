@@ -22,6 +22,7 @@ A study is being conducted about these ducks, and you are asked to compute and d
 * The percentage of ducks that come back after 1 minute
 * The percentage of ducks that come back after 2 minutes
 
+
 ## USAGE:
 
 ```
