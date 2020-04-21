@@ -25,10 +25,12 @@ A study is being conducted about these ducks, and you are asked to compute and d
 ## USAGE:
 
 ```
->> ./204ducks a
-```
+>> ./204ducks -h
+USAGE
+	./204ducks a
 
-#### DESCRIPTION
-* a       constant
+DESCRIPTION
+	a	constant
+```
 
 Author **Corentin COUTRET-ROZET** and **PATRICIA MONFA-MATAS**
